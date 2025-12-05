@@ -54,6 +54,10 @@ A final model can:
 * Resize → grayscale → invert → normalize
 * Predict the digit
 
+### **Dataset**
+
+Link to dataset: https://www.kaggle.com/datasets/hojjatk/mnist-dataset/code/data
+
 ---
 
 ## Why This Project? 🎯
