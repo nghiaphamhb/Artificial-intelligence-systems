@@ -1,4 +1,4 @@
-# Course Context: Artificial Intelligence Systems (СисИскИ)
+# Course Context: Artificial Intelligence Systems (СИИ)
 
 This project is part of the academic discipline **"Artificial Intelligence Systems" (СисИскИ)** offered by the **Faculty of Software Engineering and Computer Technologies**.
 The course is taught in **offline format** within the **Bachelor’s degree program**.
